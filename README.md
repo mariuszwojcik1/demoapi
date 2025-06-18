@@ -1,7 +1,7 @@
 
-# Project Title
+# DemoApi
 
-A brief description of what this project does and who it's for
+Proste api z rejestracją użytkowników, logowaniem i dodawaniem pozycji.
 
 ## Stos Technologiczny 🛠️
 
