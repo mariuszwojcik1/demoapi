@@ -1,3 +1,8 @@
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
 ## Stos Technologiczny 🛠️
 
 * **Java 17**
@@ -27,7 +32,7 @@ Przed uruchomieniem aplikacji upewnij się, że masz zainstalowane następujące
 2.  **Utwórz tabele bazy danych**
 
     ```sql
-   CREATE TABLE `users` (
+    CREATE TABLE `users` (
       `id` varbinary(16) NOT NULL,
       `login` varchar(100) DEFAULT NULL,
       `password` varchar(100) DEFAULT NULL
